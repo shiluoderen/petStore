@@ -1,0 +1,1537 @@
+5:Married-civ-spouse?
+True->4:12?
+  True->10:5205?
+    True->11:1776?
+      True->0:31?
+        True->6:Prof-specialty?
+          True->13:United-States?
+            True->2:281781?
+              True->7:Wife?
+                True->3:HS-grad?
+                  True->{'<=50K': 1}
+                  False->1:Private?
+                    True->8:Asian-Pac-Islander?
+                      True->12:40.0?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 1}
+                      False->12:36?
+                        True->{'<=50K': 1}
+                        False->{'>50K': 2}
+                    False->{'>50K': 1}
+                False->1:Private?
+                  True->12:39?
+                    True->{'>50K': 2}
+                    False->8:Black?
+                      True->{'<=50K': 2}
+                      False->3:HS-grad?
+                        True->{'<=50K': 3, '>50K': 3}
+                        False->{'<=50K': 11, '>50K': 5}
+                  False->12:65.0?
+                    True->{'<=50K': 6}
+                    False->{'>50K': 1}
+              False->{'<=50K': 5}
+            False->{'>50K': 3}
+          False->3:Some-college?
+            True->12:39?
+              True->1:Self-emp-not-inc?
+                True->2:162190?
+                  True->{'<=50K': 2}
+                  False->{'>50K': 2}
+                False->2:193690?
+                  True->{'<=50K': 32}
+                  False->7:Husband?
+                    True->8:Black?
+                      True->{'<=50K': 3}
+                      False->13:United-States?
+                        True->{'<=50K': 10, '>50K': 2}
+                        False->{'<=50K': 1}
+                    False->{'<=50K': 7}
+              False->2:208571?
+                True->1:Federal-gov?
+                  True->7:Husband?
+                    True->{'<=50K': 1, '>50K': 3}
+                    False->{'<=50K': 1}
+                  False->13:Jamaica?
+                    True->{'>50K': 1}
+                    False->7:Other-relative?
+                      True->8:Other?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 2, '>50K': 1}
+                      False->8:Black?
+                        True->{'<=50K': 16}
+                        False->9:Female?
+                          True->{'<=50K': 26, '>50K': 2}
+                          False->{'<=50K': 134, '>50K': 28}
+                False->1:Self-emp-not-inc?
+                  True->8:Asian-Pac-Islander?
+                    True->{'<=50K': 1}
+                    False->7:Husband?
+                      True->{'<=50K': 1, '>50K': 3}
+                      False->{'>50K': 1}
+                  False->13:Germany?
+                    True->{'>50K': 1}
+                    False->7:Wife?
+                      True->8:Black?
+                        True->{'<=50K': 2, '>50K': 3}
+                        False->{'<=50K': 6, '>50K': 3}
+                      False->8:White?
+                        True->9:Male?
+                          True->{'<=50K': 80, '>50K': 26}
+                          False->{'<=50K': 1}
+                        False->{'<=50K': 7, '>50K': 1}
+            False->12:65?
+              True->1:Private?
+                True->13:Poland?
+                  True->2:160731.0?
+                    True->{'<=50K': 2, '>50K': 1}
+                    False->{'>50K': 1}
+                  False->8:White?
+                    True->7:Wife?
+                      True->2:69590?
+                        True->{'<=50K': 4, '>50K': 6}
+                        False->{'<=50K': 73, '>50K': 8}
+                      False->2:39908?
+                        True->{'<=50K': 30}
+                        False->9:Male?
+                          True->{'<=50K': 616, '>50K': 60}
+                          False->{'<=50K': 19, '>50K': 2}
+                    False->2:174689?
+                      True->7:Husband?
+                        True->{'<=50K': 26, '>50K': 2}
+                        False->{'<=50K': 19}
+                      False->{'<=50K': 54}
+                False->13:Nicaragua?
+                  True->{'>50K': 1}
+                  False->2:141324?
+                    True->8:Asian-Pac-Islander?
+                      True->{'>50K': 1}
+                      False->7:Husband?
+                        True->{'<=50K': 33, '>50K': 2}
+                        False->{'<=50K': 9}
+                    False->7:Other-relative?
+                      True->{'<=50K': 2}
+                      False->8:Asian-Pac-Islander?
+                        True->{'<=50K': 2}
+                        False->9:Female?
+                          True->{'<=50K': 6, '>50K': 2}
+                          False->{'<=50K': 70, '>50K': 19}
+              False->2:61959?
+                True->{'>50K': 2}
+                False->1:Local-gov?
+                  True->{'>50K': 1}
+                  False->13:Canada?
+                    True->{'>50K': 1}
+                    False->8:Black?
+                      True->{'<=50K': 1, '>50K': 1}
+                      False->7:Husband?
+                        True->{'<=50K': 31, '>50K': 8}
+                        False->{'<=50K': 2}
+        False->3:Some-college?
+          True->1:Self-emp-not-inc?
+            True->2:360057?
+              True->6:Farming-fishing?
+                True->12:99.0?
+                  True->7:Husband?
+                    True->{'<=50K': 41, '>50K': 1}
+                    False->{'<=50K': 2}
+                  False->{'<=50K': 1, '>50K': 1}
+                False->12:53?
+                  True->13:Iran?
+                    True->{'>50K': 1}
+                    False->7:Wife?
+                      True->{'<=50K': 9, '>50K': 4}
+                      False->8:Amer-Indian-Eskimo?
+                        True->{'<=50K': 2}
+                        False->9:Male?
+                          True->{'<=50K': 93, '>50K': 26}
+                          False->{'<=50K': 1}
+                  False->8:Amer-Indian-Eskimo?
+                    True->{'<=50K': 3}
+                    False->13:Poland?
+                      True->{'<=50K': 1}
+                      False->7:Wife?
+                        True->{'<=50K': 2, '>50K': 1}
+                        False->{'<=50K': 27, '>50K': 19}
+              False->12:35?
+                True->{'<=50K': 2}
+                False->6:Exec-managerial?
+                  True->{'<=50K': 1, '>50K': 1}
+                  False->7:Husband?
+                    True->8:White?
+                      True->13:Mexico?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 1, '>50K': 3}
+                      False->{'>50K': 2}
+                    False->{'>50K': 2}
+            False->6:Exec-managerial?
+              True->2:134374?
+                True->8:Black?
+                  True->{'>50K': 3}
+                  False->12:48?
+                    True->7:Wife?
+                      True->{'<=50K': 1, '>50K': 5}
+                      False->9:Male?
+                        True->{'<=50K': 42, '>50K': 25}
+                        False->{'<=50K': 1}
+                    False->13:South?
+                      True->{'<=50K': 1}
+                      False->7:Husband?
+                        True->{'<=50K': 12, '>50K': 18}
+                        False->{'<=50K': 1, '>50K': 1}
+                False->12:53?
+                  True->8:White?
+                    True->7:Own-child?
+                      True->{'<=50K': 1}
+                      False->13:Cuba?
+                        True->{'>50K': 2}
+                        False->9:Male?
+                          True->{'<=50K': 45, '>50K': 76}
+                          False->{'<=50K': 3, '>50K': 10}
+                    False->13:United-States?
+                      True->7:Husband?
+                        True->{'<=50K': 4, '>50K': 3}
+                        False->{'>50K': 2}
+                      False->{'<=50K': 3}
+                  False->7:Husband?
+                    True->8:Asian-Pac-Islander?
+                      True->13:Thailand?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 1}
+                      False->13:Yugoslavia?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 6, '>50K': 28}
+                    False->{'<=50K': 1}
+              False->12:35?
+                True->13:United-States?
+                  True->8:Black?
+                    True->{'<=50K': 10}
+                    False->2:293019?
+                      True->7:Other-relative?
+                        True->9:Male?
+                          True->{'<=50K': 1}
+                          False->{'>50K': 1}
+                        False->9:Female?
+                          True->{'<=50K': 16, '>50K': 5}
+                          False->{'<=50K': 39, '>50K': 11}
+                      False->{'<=50K': 8}
+                  False->8:White?
+                    True->{'>50K': 3}
+                    False->2:221529?
+                      True->{'<=50K': 2}
+                      False->7:Other-relative?
+                        True->{'<=50K': 1}
+                        False->{'>50K': 1}
+                False->2:71642?
+                  True->9:Female?
+                    True->8:Asian-Pac-Islander?
+                      True->{'<=50K': 1}
+                      False->7:Other-relative?
+                        True->{'>50K': 1}
+                        False->13:France?
+                          True->{'>50K': 1}
+                          False->{'<=50K': 4, '>50K': 4}
+                    False->8:Asian-Pac-Islander?
+                      True->{'<=50K': 4}
+                      False->13:Philippines?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 104, '>50K': 43}
+                  False->13:Mexico?
+                    True->{'<=50K': 12}
+                    False->8:Amer-Indian-Eskimo?
+                      True->{'<=50K': 6, '>50K': 1}
+                      False->7:Own-child?
+                        True->9:Male?
+                          True->{'<=50K': 1}
+                          False->{'>50K': 2}
+                        False->9:Male?
+                          True->{'<=50K': 563, '>50K': 484}
+                          False->{'<=50K': 49, '>50K': 44}
+          False->6:Exec-managerial?
+            True->1:Self-emp-not-inc?
+              True->2:40108?
+                True->12:44?
+                  True->{'<=50K': 1}
+                  False->{'<=50K': 1, '>50K': 3}
+                False->12:39?
+                  True->7:Husband?
+                    True->8:Asian-Pac-Islander?
+                      True->{'<=50K': 1}
+                      False->{'<=50K': 19, '>50K': 1}
+                    False->{'<=50K': 1, '>50K': 2}
+                  False->7:Husband?
+                    True->8:Asian-Pac-Islander?
+                      True->{'<=50K': 2}
+                      False->13:Mexico?
+                        True->{'<=50K': 1}
+                        False->{'<=50K': 48, '>50K': 16}
+                    False->{'<=50K': 4}
+              False->12:20?
+                True->{'<=50K': 8}
+                False->2:72733?
+                  True->7:Other-relative?
+                    True->{'>50K': 1}
+                    False->8:Amer-Indian-Eskimo?
+                      True->{'<=50K': 2}
+                      False->9:Female?
+                        True->{'<=50K': 3, '>50K': 1}
+                        False->{'<=50K': 25, '>50K': 15}
+                  False->13:Mexico?
+                    True->{'<=50K': 3}
+                    False->8:Amer-Indian-Eskimo?
+                      True->{'<=50K': 2}
+                      False->7:Other-relative?
+                        True->{'>50K': 1}
+                        False->9:Female?
+                          True->{'<=50K': 18, '>50K': 25}
+                          False->{'<=50K': 124, '>50K': 150}
+            False->12:35?
+              True->7:Wife?
+                True->1:Private?
+                  True->13:Japan?
+                    True->{'>50K': 1}
+                    False->2:120257?
+                      True->{'<=50K': 20}
+                      False->8:White?
+                        True->{'<=50K': 32, '>50K': 12}
+                        False->{'<=50K': 14}
+                  False->2:85351?
+                    True->{'<=50K': 6}
+                    False->8:Black?
+                      True->{'<=50K': 2}
+                      False->13:Germany?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 11, '>50K': 9}
+                False->2:38989?
+                  True->1:Private?
+                    True->8:White?
+                      True->{'<=50K': 5, '>50K': 4}
+                      False->{'<=50K': 2}
+                    False->{'<=50K': 8}
+                  False->1:Federal-gov?
+                    True->{'<=50K': 2, '>50K': 1}
+                    False->13:United-States?
+                      True->8:Black?
+                        True->9:Male?
+                          True->{'<=50K': 9, '>50K': 2}
+                          False->{'<=50K': 2}
+                        False->9:Male?
+                          True->{'<=50K': 243, '>50K': 16}
+                          False->{'<=50K': 4}
+                      False->{'<=50K': 34}
+              False->1:Federal-gov?
+                True->2:43909?
+                  True->7:Husband?
+                    True->8:Black?
+                      True->{'>50K': 1}
+                      False->13:United-States?
+                        True->{'<=50K': 1, '>50K': 5}
+                        False->{'>50K': 1}
+                    False->{'>50K': 1}
+                  False->8:Amer-Indian-Eskimo?
+                    True->{'<=50K': 2}
+                    False->13:United-States?
+                      True->7:Husband?
+                        True->{'<=50K': 46, '>50K': 45}
+                        False->{'<=50K': 3, '>50K': 7}
+                      False->{'>50K': 2}
+                False->13:Mexico?
+                  True->2:165110?
+                    True->{'<=50K': 12}
+                    False->7:Husband?
+                      True->8:White?
+                        True->{'<=50K': 108, '>50K': 11}
+                        False->{'<=50K': 8}
+                      False->{'<=50K': 11}
+                  False->8:White?
+                    True->7:Wife?
+                      True->2:200493?
+                        True->{'<=50K': 106, '>50K': 51}
+                        False->{'<=50K': 41, '>50K': 32}
+                      False->2:126321?
+                        True->9:Male?
+                          True->{'<=50K': 747, '>50K': 257}
+                          False->{'<=50K': 5}
+                        False->9:Female?
+                          True->{'<=50K': 6, '>50K': 1}
+                          False->{'<=50K': 1621, '>50K': 663}
+                    False->2:552894?
+                      True->7:Own-child?
+                        True->{'>50K': 1}
+                        False->9:Female?
+                          True->{'<=50K': 50, '>50K': 13}
+                          False->{'<=50K': 296, '>50K': 72}
+                      False->{'<=50K': 2, '>50K': 5}
+      False->6:Exec-managerial?
+        True->0:28?
+          True->{'<=50K': 1}
+          False->1:Local-gov?
+            True->2:177305.0?
+              True->{'>50K': 1}
+              False->{'<=50K': 1}
+            False->2:181046?
+              True->{'>50K': 34}
+              False->12:43?
+                True->7:Husband?
+                  True->3:HS-grad?
+                    True->{'<=50K': 1, '>50K': 2}
+                    False->{'<=50K': 1, '>50K': 3}
+                  False->{'>50K': 2}
+                False->{'>50K': 12}
+        False->3:5th-6th?
+          True->{'<=50K': 4}
+          False->0:36?
+            True->12:49?
+              True->2:303577?
+                True->1:Self-emp-inc?
+                  True->{'>50K': 2}
+                  False->13:United-States?
+                    True->7:Husband?
+                      True->8:Black?
+                        True->{'<=50K': 1, '>50K': 1}
+                        False->{'<=50K': 19, '>50K': 11}
+                      False->{'<=50K': 5, '>50K': 5}
+                    False->{'<=50K': 2}
+                False->{'>50K': 6}
+              False->7:Husband?
+                True->2:158307?
+                  True->{'>50K': 6}
+                  False->1:Private?
+                    True->8:White?
+                      True->{'<=50K': 2, '>50K': 1}
+                      False->{'>50K': 2}
+                    False->{'>50K': 2}
+                False->{'<=50K': 1}
+            False->1:Self-emp-not-inc?
+              True->2:278966?
+                True->12:59?
+                  True->7:Husband?
+                    True->8:Asian-Pac-Islander?
+                      True->{'<=50K': 1}
+                      False->{'<=50K': 10, '>50K': 5}
+                    False->{'>50K': 1}
+                  False->7:Husband?
+                    True->{'>50K': 4}
+                    False->{'<=50K': 1}
+                False->{'>50K': 5}
+              False->7:Wife?
+                True->{'>50K': 11}
+                False->2:816750.0?
+                  True->8:Other?
+                    True->{'<=50K': 1}
+                    False->13:Poland?
+                      True->{'<=50K': 1}
+                      False->12:99.0?
+                        True->9:Male?
+                          True->{'<=50K': 39, '>50K': 117}
+                          False->{'<=50K': 1, '>50K': 1}
+                        False->{'>50K': 3}
+                  False->{'<=50K': 1}
+    False->0:59?
+      True->3:Preschool?
+        True->{'<=50K': 1}
+        False->{'>50K': 346}
+      False->1:Local-gov?
+        True->{'<=50K': 1}
+        False->6:Protective-serv?
+          True->{'<=50K': 1}
+          False->2:288331?
+            True->8:Black?
+              True->3:HS-grad?
+                True->{'>50K': 1}
+                False->{'<=50K': 1}
+              False->12:39?
+                True->{'>50K': 15}
+                False->7:Husband?
+                  True->3:Assoc-voc?
+                    True->{'<=50K': 1, '>50K': 4}
+                    False->13:United-States?
+                      True->{'<=50K': 2, '>50K': 31}
+                      False->{'>50K': 3}
+                  False->{'<=50K': 1, '>50K': 1}
+            False->3:HS-grad?
+              True->{'>50K': 2}
+              False->7:Husband?
+                True->{'<=50K': 1, '>50K': 1}
+                False->{'<=50K': 1}
+  False->10:5205?
+    True->11:1813?
+      True->12:31?
+        True->7:Wife?
+          True->3:Masters?
+            True->{'>50K': 9}
+            False->2:96253?
+              True->1:Private?
+                True->6:Sales?
+                  True->{'<=50K': 1}
+                  False->0:33?
+                    True->{'<=50K': 2, '>50K': 2}
+                    False->{'>50K': 3}
+                False->0:59.0?
+                  True->6:Prof-specialty?
+                    True->{'<=50K': 4, '>50K': 1}
+                    False->{'<=50K': 3}
+                  False->{'>50K': 1}
+              False->0:36?
+                True->6:Adm-clerical?
+                  True->{'<=50K': 5}
+                  False->13:United-States?
+                    True->1:Private?
+                      True->{'<=50K': 1, '>50K': 3}
+                      False->{'>50K': 2}
+                    False->{'<=50K': 1}
+                False->6:Other-service?
+                  True->{'<=50K': 1}
+                  False->1:Local-gov?
+                    True->{'<=50K': 2, '>50K': 3}
+                    False->8:White?
+                      True->13:Cuba?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 4, '>50K': 18}
+                      False->{'>50K': 2}
+          False->3:Prof-school?
+            True->0:58?
+              True->6:Exec-managerial?
+                True->{'<=50K': 1}
+                False->{'>50K': 7}
+              False->2:115200?
+                True->{'<=50K': 4}
+                False->6:Transport-moving?
+                  True->{'>50K': 1}
+                  False->1:Private?
+                    True->{'<=50K': 3, '>50K': 2}
+                    False->{'<=50K': 4, '>50K': 3}
+            False->0:31?
+              True->6:Other-service?
+                True->2:169496.0?
+                  True->{'<=50K': 1}
+                  False->{'>50K': 1}
+                False->{'<=50K': 31}
+              False->6:Tech-support?
+                True->1:Private?
+                  True->2:281392?
+                    True->{'>50K': 4}
+                    False->{'<=50K': 2, '>50K': 2}
+                  False->{'<=50K': 3}
+                False->2:588484.0?
+                  True->8:Black?
+                    True->1:Private?
+                      True->{'<=50K': 2}
+                      False->{'<=50K': 1, '>50K': 3}
+                    False->13:United-States?
+                      True->1:Local-gov?
+                        True->{'<=50K': 7, '>50K': 1}
+                        False->{'<=50K': 71, '>50K': 24}
+                      False->1:Private?
+                        True->{'<=50K': 7}
+                        False->{'<=50K': 7, '>50K': 2}
+                  False->{'>50K': 1}
+        False->3:Assoc-acdm?
+          True->6:Exec-managerial?
+            True->0:29?
+              True->{'<=50K': 5}
+              False->2:446559.0?
+                True->13:Italy?
+                  True->{'<=50K': 1}
+                  False->1:Self-emp-not-inc?
+                    True->{'<=50K': 2, '>50K': 2}
+                    False->8:Black?
+                      True->{'>50K': 3}
+                      False->7:Husband?
+                        True->{'<=50K': 9, '>50K': 31}
+                        False->{'<=50K': 2, '>50K': 7}
+                False->{'<=50K': 1}
+            False->2:118709?
+              True->0:58?
+                True->13:United-States?
+                  True->1:State-gov?
+                    True->{'>50K': 1}
+                    False->8:Asian-Pac-Islander?
+                      True->{'<=50K': 2}
+                      False->7:Husband?
+                        True->{'<=50K': 45, '>50K': 14}
+                        False->{'<=50K': 9, '>50K': 3}
+                  False->8:White?
+                    True->1:Private?
+                      True->{'<=50K': 3, '>50K': 1}
+                      False->{'>50K': 1}
+                    False->{'>50K': 2}
+                False->8:Black?
+                  True->{'<=50K': 1}
+                  False->{'>50K': 3}
+              False->0:36?
+                True->7:Not-in-family?
+                  True->{'>50K': 2}
+                  False->1:Federal-gov?
+                    True->{'<=50K': 5}
+                    False->8:Amer-Indian-Eskimo?
+                      True->{'>50K': 1}
+                      False->13:Hong?
+                        True->{'>50K': 1}
+                        False->9:Female?
+                          True->{'<=50K': 9, '>50K': 5}
+                          False->{'<=50K': 35, '>50K': 16}
+                False->8:White?
+                  True->1:Federal-gov?
+                    True->7:Husband?
+                      True->{'<=50K': 2, '>50K': 7}
+                      False->{'>50K': 1}
+                    False->7:Other-relative?
+                      True->{'<=50K': 1}
+                      False->13:Iran?
+                        True->{'<=50K': 1}
+                        False->9:Male?
+                          True->{'<=50K': 49, '>50K': 57}
+                          False->{'<=50K': 3, '>50K': 3}
+                  False->1:Private?
+                    True->{'<=50K': 7}
+                    False->{'<=50K': 1, '>50K': 2}
+          False->0:28?
+            True->1:Self-emp-inc?
+              True->{'>50K': 2}
+              False->2:176350?
+                True->8:Black?
+                  True->{'>50K': 2}
+                  False->6:Sales?
+                    True->7:Husband?
+                      True->{'<=50K': 4, '>50K': 3}
+                      False->{'>50K': 2}
+                    False->13:England?
+                      True->{'>50K': 1}
+                      False->7:Wife?
+                        True->{'<=50K': 6, '>50K': 5}
+                        False->9:Male?
+                          True->{'<=50K': 33, '>50K': 10}
+                          False->{'<=50K': 2}
+                False->7:Other-relative?
+                  True->{'<=50K': 3}
+                  False->6:Craft-repair?
+                    True->{'>50K': 3}
+                    False->8:Asian-Pac-Islander?
+                      True->{'>50K': 2}
+                      False->13:Cuba?
+                        True->{'>50K': 1}
+                        False->9:Female?
+                          True->{'<=50K': 9, '>50K': 8}
+                          False->{'<=50K': 23, '>50K': 17}
+            False->6:Exec-managerial?
+              True->1:Self-emp-not-inc?
+                True->2:186291?
+                  True->7:Own-child?
+                    True->{'<=50K': 1}
+                    False->13:Philippines?
+                      True->{'<=50K': 1}
+                      False->9:Male?
+                        True->8:Asian-Pac-Islander?
+                          True->{'<=50K': 1, '>50K': 2}
+                          False->{'<=50K': 11, '>50K': 20}
+                        False->{'>50K': 1}
+                  False->8:White?
+                    True->7:Husband?
+                      True->13:Mexico?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 10, '>50K': 7}
+                      False->{'>50K': 1}
+                    False->{'<=50K': 3}
+                False->8:Other?
+                  True->{'<=50K': 2}
+                  False->2:668319.0?
+                    True->7:Own-child?
+                      True->{'<=50K': 1}
+                      False->13:South?
+                        True->{'<=50K': 1}
+                        False->9:Female?
+                          True->{'<=50K': 15, '>50K': 43}
+                          False->{'<=50K': 141, '>50K': 563}
+                    False->{'<=50K': 1}
+              False->7:Other-relative?
+                True->2:260885?
+                  True->{'<=50K': 10}
+                  False->13:Philippines?
+                    True->{'>50K': 1}
+                    False->{'<=50K': 1}
+                False->1:Self-emp-not-inc?
+                  True->2:90348?
+                    True->13:United-States?
+                      True->9:Male?
+                        True->{'<=50K': 20, '>50K': 16}
+                        False->{'<=50K': 1}
+                      False->{'<=50K': 3}
+                    False->13:South?
+                      True->{'<=50K': 2}
+                      False->8:Other?
+                        True->{'>50K': 1}
+                        False->9:Male?
+                          True->{'<=50K': 72, '>50K': 102}
+                          False->{'<=50K': 3, '>50K': 5}
+                  False->13:United-States?
+                    True->2:102912?
+                      True->8:Other?
+                        True->{'<=50K': 2}
+                        False->9:Female?
+                          True->{'<=50K': 13, '>50K': 28}
+                          False->{'<=50K': 104, '>50K': 175}
+                      False->8:Amer-Indian-Eskimo?
+                        True->{'<=50K': 1}
+                        False->9:Male?
+                          True->{'<=50K': 358, '>50K': 785}
+                          False->{'<=50K': 28, '>50K': 74}
+                    False->2:108699?
+                      True->9:Female?
+                        True->8:Asian-Pac-Islander?
+                          True->{'>50K': 3}
+                          False->{'<=50K': 1, '>50K': 3}
+                        False->8:Other?
+                          True->{'>50K': 1}
+                          False->{'<=50K': 10, '>50K': 22}
+                      False->8:Other?
+                        True->{'<=50K': 4}
+                        False->9:Male?
+                          True->{'<=50K': 61, '>50K': 75}
+                          False->{'<=50K': 10, '>50K': 9}
+      False->13:Iran?
+        True->{'<=50K': 1}
+        False->3:Assoc-acdm?
+          True->2:106914?
+            True->0:49.0?
+              True->{'<=50K': 3}
+              False->{'>50K': 1}
+            False->0:30?
+              True->1:Private?
+                True->{'>50K': 1}
+                False->{'<=50K': 1}
+              False->1:Self-emp-inc?
+                True->6:Craft-repair?
+                  True->{'<=50K': 1}
+                  False->{'>50K': 4}
+                False->{'>50K': 14}
+          False->6:Transport-moving?
+            True->0:47.0?
+              True->{'>50K': 1}
+              False->{'<=50K': 1}
+            False->1:Local-gov?
+              True->0:29?
+                True->2:250135.0?
+                  True->{'>50K': 1}
+                  False->{'<=50K': 1}
+                False->2:107970?
+                  True->12:50.0?
+                    True->{'<=50K': 1}
+                    False->{'>50K': 2}
+                  False->7:Husband?
+                    True->{'>50K': 27}
+                    False->8:Black?
+                      True->{'>50K': 2}
+                      False->12:49?
+                        True->{'<=50K': 1, '>50K': 3}
+                        False->{'>50K': 2}
+              False->0:44?
+                True->{'>50K': 170}
+                False->8:Asian-Pac-Islander?
+                  True->12:60.0?
+                    True->{'>50K': 6}
+                    False->{'<=50K': 1}
+                  False->2:160150?
+                    True->{'>50K': 63}
+                    False->12:39?
+                      True->7:Husband?
+                        True->{'<=50K': 1, '>50K': 4}
+                        False->{'>50K': 1}
+                      False->7:Husband?
+                        True->{'<=50K': 3, '>50K': 83}
+                        False->{'>50K': 1}
+    False->0:90.0?
+      True->6:Farming-fishing?
+        True->1:Self-emp-not-inc?
+          True->{'<=50K': 1}
+          False->{'>50K': 3}
+        False->{'>50K': 631}
+      False->1:Self-emp-not-inc?
+        True->{'<=50K': 1}
+        False->{'>50K': 3}
+False->10:6929?
+  True->4:14?
+    True->12:43?
+      True->11:2232?
+        True->7:Wife?
+          True->0:22?
+            True->{'<=50K': 2}
+            False->3:Assoc-acdm?
+              True->{'<=50K': 1}
+              False->6:Other-service?
+                True->2:228306.0?
+                  True->{'<=50K': 1, '>50K': 1}
+                  False->{'>50K': 1}
+                False->{'>50K': 4}
+          False->0:35?
+            True->3:Bachelors?
+              True->1:Self-emp-not-inc?
+                True->6:Adm-clerical?
+                  True->2:258298.0?
+                    True->{'<=50K': 1}
+                    False->{'>50K': 1}
+                  False->2:187356?
+                    True->8:White?
+                      True->9:Male?
+                        True->{'<=50K': 3, '>50K': 1}
+                        False->{'<=50K': 2}
+                      False->{'>50K': 1}
+                    False->{'<=50K': 13}
+                False->2:192781?
+                  True->13:Philippines?
+                    True->9:Male?
+                      True->{'>50K': 1}
+                      False->{'<=50K': 8}
+                    False->8:White?
+                      True->6:Sales?
+                        True->9:Male?
+                          True->{'<=50K': 29, '>50K': 3}
+                          False->{'<=50K': 22}
+                        False->9:Male?
+                          True->{'<=50K': 171, '>50K': 5}
+                          False->{'<=50K': 228, '>50K': 5}
+                      False->{'<=50K': 76}
+                  False->6:Sales?
+                    True->9:Female?
+                      True->{'<=50K': 39}
+                      False->8:White?
+                        True->{'<=50K': 22, '>50K': 1}
+                        False->{'<=50K': 4}
+                    False->8:White?
+                      True->13:United-States?
+                        True->9:Male?
+                          True->{'<=50K': 142, '>50K': 1}
+                          False->{'<=50K': 150, '>50K': 1}
+                        False->{'<=50K': 12}
+                      False->{'<=50K': 62}
+              False->6:Protective-serv?
+                True->2:440047?
+                  True->1:Local-gov?
+                    True->8:White?
+                      True->9:Female?
+                        True->{'<=50K': 6, '>50K': 1}
+                        False->13:United-States?
+                          True->{'<=50K': 21, '>50K': 2}
+                          False->{'<=50K': 2}
+                      False->{'<=50K': 14}
+                    False->{'<=50K': 59}
+                  False->1:Private?
+                    True->{'<=50K': 2}
+                    False->{'>50K': 1}
+                False->2:24642?
+                  True->8:Amer-Indian-Eskimo?
+                    True->1:Private?
+                      True->{'<=50K': 2}
+                      False->{'>50K': 1}
+                    False->9:Male?
+                      True->1:Private?
+                        True->13:Canada?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 12, '>50K': 1}
+                        False->{'<=50K': 2}
+                      False->{'<=50K': 16}
+                  False->13:England?
+                    True->9:Female?
+                      True->{'<=50K': 5}
+                      False->1:Private?
+                        True->{'<=50K': 5, '>50K': 1}
+                        False->{'<=50K': 1}
+                    False->1:Federal-gov?
+                      True->9:Male?
+                        True->{'<=50K': 48}
+                        False->8:Black?
+                          True->{'<=50K': 16, '>50K': 1}
+                          False->{'<=50K': 34, '>50K': 1}
+                      False->9:Female?
+                        True->8:White?
+                          True->{'<=50K': 2362, '>50K': 6}
+                          False->{'<=50K': 545}
+                        False->8:Asian-Pac-Islander?
+                          True->{'<=50K': 82, '>50K': 1}
+                          False->{'<=50K': 2938, '>50K': 13}
+            False->3:Bachelors?
+              True->13:Jamaica?
+                True->{'>50K': 1}
+                False->6:Prof-specialty?
+                  True->8:Asian-Pac-Islander?
+                    True->2:133051?
+                      True->9:Male?
+                        True->{'<=50K': 1}
+                        False->1:Private?
+                          True->{'>50K': 2}
+                          False->{'<=50K': 1, '>50K': 1}
+                      False->1:Private?
+                        True->{'<=50K': 2, '>50K': 1}
+                        False->{'<=50K': 1}
+                    False->2:89031?
+                      True->1:Local-gov?
+                        True->{'<=50K': 3, '>50K': 1}
+                        False->{'<=50K': 20}
+                      False->1:Private?
+                        True->9:Male?
+                          True->{'<=50K': 26, '>50K': 7}
+                          False->{'<=50K': 41, '>50K': 9}
+                        False->9:Female?
+                          True->{'<=50K': 44, '>50K': 7}
+                          False->{'<=50K': 30, '>50K': 3}
+                  False->9:Female?
+                    True->8:Black?
+                      True->1:Private?
+                        True->2:148853?
+                          True->{'<=50K': 8}
+                          False->{'<=50K': 7, '>50K': 4}
+                        False->{'<=50K': 12}
+                      False->2:329435?
+                        True->1:Federal-gov?
+                          True->{'<=50K': 7, '>50K': 1}
+                          False->{'<=50K': 163, '>50K': 6}
+                        False->1:Local-gov?
+                          True->{'<=50K': 1, '>50K': 1}
+                          False->{'<=50K': 10, '>50K': 1}
+                    False->1:Federal-gov?
+                      True->2:197355?
+                        True->8:Black?
+                          True->{'>50K': 1}
+                          False->{'<=50K': 7, '>50K': 1}
+                        False->{'<=50K': 1, '>50K': 3}
+                      False->2:181562?
+                        True->8:Black?
+                          True->{'<=50K': 2, '>50K': 1}
+                          False->{'<=50K': 73, '>50K': 4}
+                        False->8:White?
+                          True->{'<=50K': 73, '>50K': 16}
+                          False->{'<=50K': 14}
+              False->6:Prof-specialty?
+                True->9:Male?
+                  True->2:30947?
+                    True->{'>50K': 1}
+                    False->8:Amer-Indian-Eskimo?
+                      True->{'>50K': 1}
+                      False->1:Federal-gov?
+                        True->{'<=50K': 1, '>50K': 2}
+                        False->13:Japan?
+                          True->{'>50K': 1}
+                          False->{'<=50K': 39, '>50K': 9}
+                  False->13:Philippines?
+                    True->{'>50K': 1}
+                    False->1:Federal-gov?
+                      True->2:267546.0?
+                        True->8:White?
+                          True->{'<=50K': 3, '>50K': 1}
+                          False->{'<=50K': 4}
+                        False->{'>50K': 1}
+                      False->8:White?
+                        True->2:226831?
+                          True->{'<=50K': 98, '>50K': 7}
+                          False->{'<=50K': 23}
+                        False->{'<=50K': 32}
+                False->9:Male?
+                  True->8:White?
+                    True->13:Puerto-Rico?
+                      True->1:Self-emp-not-inc?
+                        True->{'>50K': 1}
+                        False->2:233201?
+                          True->{'<=50K': 3, '>50K': 1}
+                          False->{'<=50K': 3}
+                      False->1:Local-gov?
+                        True->2:183349?
+                          True->{'<=50K': 32, '>50K': 2}
+                          False->{'<=50K': 26, '>50K': 5}
+                        False->2:111013?
+                          True->{'<=50K': 218, '>50K': 14}
+                          False->{'<=50K': 777, '>50K': 31}
+                    False->1:Self-emp-inc?
+                      True->2:227226?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 2}
+                      False->{'<=50K': 251}
+                  False->13:India?
+                    True->{'>50K': 1}
+                    False->2:64698?
+                      True->8:Asian-Pac-Islander?
+                        True->1:Private?
+                          True->{'<=50K': 1, '>50K': 1}
+                          False->{'<=50K': 1}
+                        False->1:Local-gov?
+                          True->{'<=50K': 13, '>50K': 1}
+                          False->{'<=50K': 185, '>50K': 7}
+                      False->8:Black?
+                        True->1:Federal-gov?
+                          True->{'<=50K': 33, '>50K': 1}
+                          False->{'<=50K': 471, '>50K': 2}
+                        False->1:Self-emp-inc?
+                          True->{'<=50K': 14, '>50K': 1}
+                          False->{'<=50K': 1729, '>50K': 29}
+        False->2:238213?
+          True->8:Black?
+            True->{'<=50K': 3}
+            False->3:10th?
+              True->{'<=50K': 2}
+              False->6:Sales?
+                True->{'<=50K': 2}
+                False->0:54?
+                  True->1:Self-emp-not-inc?
+                    True->{'<=50K': 1}
+                    False->7:Own-child?
+                      True->9:Female?
+                        True->{'<=50K': 1, '>50K': 1}
+                        False->{'>50K': 1}
+                      False->9:Male?
+                        True->{'<=50K': 2, '>50K': 9}
+                        False->{'>50K': 4}
+                  False->1:Private?
+                    True->9:Male?
+                      True->{'>50K': 2}
+                      False->7:Unmarried?
+                        True->{'<=50K': 1, '>50K': 1}
+                        False->{'<=50K': 1}
+                    False->{'<=50K': 2}
+          False->{'<=50K': 7}
+      False->3:Bachelors?
+        True->0:28?
+          True->11:2126?
+            True->6:Craft-repair?
+              True->2:292349?
+                True->{'<=50K': 1, '>50K': 1}
+                False->{'<=50K': 2}
+              False->1:Self-emp-inc?
+                True->2:176744?
+                  True->{'<=50K': 3}
+                  False->9:Male?
+                    True->{'>50K': 1}
+                    False->{'<=50K': 2}
+                False->2:168554?
+                  True->{'<=50K': 75}
+                  False->9:Female?
+                    True->{'<=50K': 36}
+                    False->7:Not-in-family?
+                      True->13:United-States?
+                        True->8:Black?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 38, '>50K': 3}
+                        False->{'<=50K': 4}
+                      False->{'<=50K': 6}
+            False->1:Private?
+              True->{'>50K': 1}
+              False->{'<=50K': 1}
+          False->11:2333?
+            True->6:Exec-managerial?
+              True->1:Private?
+                True->2:620860?
+                  True->7:Other-relative?
+                    True->{'<=50K': 2}
+                    False->8:Asian-Pac-Islander?
+                      True->{'<=50K': 2}
+                      False->13:England?
+                        True->{'>50K': 1}
+                        False->9:Male?
+                          True->{'<=50K': 28, '>50K': 23}
+                          False->{'<=50K': 27, '>50K': 24}
+                  False->{'>50K': 2}
+                False->2:445382.0?
+                  True->7:Unmarried?
+                    True->9:Male?
+                      True->{'<=50K': 1, '>50K': 3}
+                      False->8:Black?
+                        True->{'<=50K': 1, '>50K': 1}
+                        False->{'<=50K': 4}
+                    False->8:Asian-Pac-Islander?
+                      True->{'<=50K': 3}
+                      False->13:United-States?
+                        True->9:Male?
+                          True->{'<=50K': 15, '>50K': 3}
+                          False->{'<=50K': 7, '>50K': 1}
+                        False->{'<=50K': 1}
+                  False->{'>50K': 1}
+              False->9:Female?
+                True->2:162338?
+                  True->1:Local-gov?
+                    True->{'<=50K': 23}
+                    False->13:United-States?
+                      True->8:White?
+                        True->7:Other-relative?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 40, '>50K': 5}
+                        False->{'<=50K': 2}
+                      False->{'<=50K': 4}
+                  False->7:Unmarried?
+                    True->8:Asian-Pac-Islander?
+                      True->{'>50K': 1}
+                      False->13:Poland?
+                        True->{'>50K': 1}
+                        False->1:Self-emp-not-inc?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 11, '>50K': 6}
+                    False->13:United-States?
+                      True->1:Federal-gov?
+                        True->{'>50K': 1}
+                        False->8:Other?
+                          True->{'>50K': 1}
+                          False->{'<=50K': 45, '>50K': 13}
+                      False->{'<=50K': 15}
+                False->8:Black?
+                  True->2:250499?
+                    True->1:Private?
+                      True->7:Not-in-family?
+                        True->{'<=50K': 3, '>50K': 1}
+                        False->{'<=50K': 2}
+                      False->{'<=50K': 1, '>50K': 2}
+                    False->7:Own-child?
+                      True->{'<=50K': 1}
+                      False->{'>50K': 6}
+                  False->1:State-gov?
+                    True->{'<=50K': 7}
+                    False->7:Husband?
+                      True->{'>50K': 1}
+                      False->13:Philippines?
+                        True->{'>50K': 1}
+                        False->2:37591?
+                          True->{'<=50K': 4, '>50K': 4}
+                          False->{'<=50K': 137, '>50K': 50}
+            False->{'>50K': 6}
+        False->11:2126?
+          True->0:39?
+            True->13:India?
+              True->{'>50K': 1}
+              False->7:Not-in-family?
+                True->1:Private?
+                  True->6:Prof-specialty?
+                    True->2:429942?
+                      True->9:Male?
+                        True->8:Other?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 14, '>50K': 2}
+                        False->{'<=50K': 3}
+                      False->9:Male?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 1}
+                    False->2:30536?
+                      True->9:Male?
+                        True->8:Amer-Indian-Eskimo?
+                          True->{'<=50K': 1, '>50K': 1}
+                          False->{'<=50K': 5, '>50K': 1}
+                        False->{'<=50K': 5}
+                      False->8:Asian-Pac-Islander?
+                        True->9:Male?
+                          True->{'<=50K': 4, '>50K': 1}
+                          False->{'<=50K': 4}
+                        False->9:Male?
+                          True->{'<=50K': 451, '>50K': 18}
+                          False->{'<=50K': 162, '>50K': 5}
+                  False->6:Exec-managerial?
+                    True->2:455995.0?
+                      True->8:Asian-Pac-Islander?
+                        True->{'>50K': 1}
+                        False->9:Male?
+                          True->{'<=50K': 14, '>50K': 5}
+                          False->{'<=50K': 4}
+                      False->{'>50K': 1}
+                    False->2:173417?
+                      True->9:Male?
+                        True->8:White?
+                          True->{'<=50K': 42, '>50K': 3}
+                          False->{'<=50K': 2}
+                        False->{'<=50K': 10}
+                      False->8:Asian-Pac-Islander?
+                        True->{'<=50K': 2}
+                        False->9:Male?
+                          True->{'<=50K': 41, '>50K': 8}
+                          False->{'<=50K': 10, '>50K': 1}
+                False->1:Federal-gov?
+                  True->2:167435?
+                    True->6:Exec-managerial?
+                      True->{'>50K': 1}
+                      False->{'<=50K': 1}
+                    False->{'<=50K': 5}
+                  False->8:Asian-Pac-Islander?
+                    True->2:68833?
+                      True->{'>50K': 1}
+                      False->{'<=50K': 10}
+                    False->6:Other-service?
+                      True->2:180122?
+                        True->9:Male?
+                          True->{'<=50K': 14}
+                          False->{'<=50K': 27, '>50K': 2}
+                        False->{'<=50K': 30}
+                      False->2:278017?
+                        True->9:Male?
+                          True->{'<=50K': 300, '>50K': 2}
+                          False->{'<=50K': 114}
+                        False->9:Male?
+                          True->{'<=50K': 61, '>50K': 2}
+                          False->{'<=50K': 21}
+            False->9:Male?
+              True->2:344732?
+                True->13:Iran?
+                  True->{'>50K': 1}
+                  False->7:Unmarried?
+                    True->1:Self-emp-not-inc?
+                      True->{'<=50K': 10}
+                      False->6:Tech-support?
+                        True->{'>50K': 1}
+                        False->8:Asian-Pac-Islander?
+                          True->{'>50K': 1}
+                          False->{'<=50K': 37, '>50K': 13}
+                    False->6:Craft-repair?
+                      True->8:Black?
+                        True->{'<=50K': 7}
+                        False->1:Self-emp-inc?
+                          True->{'<=50K': 4}
+                          False->{'<=50K': 40, '>50K': 11}
+                      False->1:Self-emp-not-inc?
+                        True->8:White?
+                          True->{'<=50K': 37, '>50K': 2}
+                          False->{'<=50K': 6}
+                        False->8:Amer-Indian-Eskimo?
+                          True->{'<=50K': 2}
+                          False->{'<=50K': 188, '>50K': 28}
+                False->1:Self-emp-not-inc?
+                  True->6:Sales?
+                    True->7:Unmarried?
+                      True->{'>50K': 1}
+                      False->{'<=50K': 1}
+                    False->{'>50K': 2}
+                  False->6:Prof-specialty?
+                    True->{'<=50K': 1, '>50K': 3}
+                    False->7:Own-child?
+                      True->{'>50K': 1}
+                      False->13:United-States?
+                        True->8:Black?
+                          True->{'<=50K': 1, '>50K': 1}
+                          False->{'<=50K': 15, '>50K': 4}
+                        False->{'<=50K': 5}
+              False->13:Greece?
+                True->{'>50K': 1}
+                False->6:Tech-support?
+                  True->1:Private?
+                    True->2:132972?
+                      True->{'>50K': 1}
+                      False->7:Not-in-family?
+                        True->{'<=50K': 3, '>50K': 1}
+                        False->{'<=50K': 3}
+                    False->{'>50K': 1}
+                  False->2:103363?
+                    True->{'<=50K': 81}
+                    False->1:State-gov?
+                      True->7:Unmarried?
+                        True->8:Black?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 5, '>50K': 2}
+                        False->{'<=50K': 3}
+                      False->7:Own-child?
+                        True->{'<=50K': 12, '>50K': 2}
+                        False->8:Asian-Pac-Islander?
+                          True->{'<=50K': 5}
+                          False->{'<=50K': 260, '>50K': 18}
+          False->0:35?
+            True->{'<=50K': 3}
+            False->6:Adm-clerical?
+              True->{'<=50K': 1}
+              False->1:Self-emp-inc?
+                True->2:134116?
+                  True->{'>50K': 2}
+                  False->{'<=50K': 2}
+                False->9:Male?
+                  True->2:146128?
+                    True->{'<=50K': 1, '>50K': 2}
+                    False->{'>50K': 7}
+                  False->2:237729.0?
+                    True->{'<=50K': 1}
+                    False->{'>50K': 1}
+    False->12:43?
+      True->11:2514?
+        True->3:Masters?
+          True->0:48?
+            True->6:Exec-managerial?
+              True->7:Not-in-family?
+                True->1:Private?
+                  True->2:91755?
+                    True->{'<=50K': 3}
+                    False->13:United-States?
+                      True->8:Black?
+                        True->{'>50K': 1}
+                        False->9:Male?
+                          True->{'<=50K': 6, '>50K': 5}
+                          False->{'<=50K': 4, '>50K': 3}
+                      False->{'<=50K': 2}
+                  False->2:178354?
+                    True->{'<=50K': 8}
+                    False->8:Black?
+                      True->{'<=50K': 1}
+                      False->9:Male?
+                        True->13:Scotland?
+                          True->{'<=50K': 1}
+                          False->{'>50K': 1}
+                        False->{'<=50K': 1}
+                False->2:110759?
+                  True->9:Male?
+                    True->{'<=50K': 1, '>50K': 1}
+                    False->{'<=50K': 4}
+                  False->{'<=50K': 15}
+              False->2:185410?
+                True->9:Male?
+                  True->1:Self-emp-not-inc?
+                    True->{'<=50K': 2, '>50K': 1}
+                    False->7:Not-in-family?
+                      True->8:White?
+                        True->13:Iran?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 20, '>50K': 2}
+                        False->{'<=50K': 7}
+                      False->{'<=50K': 12}
+                  False->{'<=50K': 88}
+                False->1:Self-emp-inc?
+                  True->{'<=50K': 1, '>50K': 1}
+                  False->13:Taiwan?
+                    True->7:Unmarried?
+                      True->{'<=50K': 1}
+                      False->{'>50K': 1}
+                    False->8:White?
+                      True->7:Not-in-family?
+                        True->9:Male?
+                          True->{'<=50K': 22, '>50K': 3}
+                          False->{'<=50K': 28, '>50K': 5}
+                        False->9:Female?
+                          True->{'<=50K': 13, '>50K': 1}
+                          False->{'<=50K': 8, '>50K': 1}
+                      False->7:Unmarried?
+                        True->{'<=50K': 3, '>50K': 1}
+                        False->{'<=50K': 16}
+            False->2:360194?
+              True->6:Tech-support?
+                True->{'>50K': 1}
+                False->7:Not-in-family?
+                  True->8:Black?
+                    True->{'>50K': 1}
+                    False->1:Federal-gov?
+                      True->{'<=50K': 2, '>50K': 2}
+                      False->13:United-States?
+                        True->9:Female?
+                          True->{'<=50K': 36, '>50K': 10}
+                          False->{'<=50K': 16, '>50K': 5}
+                        False->{'<=50K': 4}
+                  False->8:Black?
+                    True->1:Private?
+                      True->{'<=50K': 1}
+                      False->{'<=50K': 2, '>50K': 1}
+                    False->1:Private?
+                      True->9:Male?
+                        True->13:United-States?
+                          True->{'<=50K': 1, '>50K': 1}
+                          False->{'<=50K': 1}
+                        False->13:Thailand?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 7, '>50K': 1}
+                      False->{'<=50K': 13}
+              False->1:Private?
+                True->{'>50K': 2}
+                False->7:Unmarried?
+                  True->{'>50K': 1}
+                  False->{'<=50K': 1}
+          False->9:Male?
+            True->0:30?
+              True->{'<=50K': 9}
+              False->13:England?
+                True->{'<=50K': 2}
+                False->7:Own-child?
+                  True->2:113709?
+                    True->{'>50K': 1}
+                    False->{'<=50K': 3}
+                  False->1:Local-gov?
+                    True->{'<=50K': 1}
+                    False->6:Adm-clerical?
+                      True->{'<=50K': 1}
+                      False->2:89913?
+                        True->{'<=50K': 2, '>50K': 1}
+                        False->8:White?
+                          True->{'<=50K': 8, '>50K': 19}
+                          False->{'>50K': 3}
+            False->1:State-gov?
+              True->2:197840?
+                True->8:Black?
+                  True->{'<=50K': 1}
+                  False->{'>50K': 4}
+                False->7:Unmarried?
+                  True->0:43.0?
+                    True->{'<=50K': 1}
+                    False->{'>50K': 1}
+                  False->{'<=50K': 3}
+              False->6:Machine-op-inspct?
+                True->{'>50K': 1}
+                False->13:Germany?
+                  True->{'>50K': 1}
+                  False->2:175640?
+                    True->{'<=50K': 24}
+                    False->8:Black?
+                      True->{'>50K': 1}
+                      False->0:40?
+                        True->{'<=50K': 8}
+                        False->7:Unmarried?
+                          True->{'<=50K': 3}
+                          False->{'<=50K': 6, '>50K': 2}
+        False->{'>50K': 6}
+      False->0:31?
+        True->1:Self-emp-not-inc?
+          True->2:219897.0?
+            True->{'>50K': 2}
+            False->{'<=50K': 1}
+          False->2:606111.0?
+            True->6:Sales?
+              True->3:Prof-school?
+                True->{'<=50K': 1}
+                False->9:Male?
+                  True->{'<=50K': 1, '>50K': 1}
+                  False->{'>50K': 1}
+              False->7:Not-in-family?
+                True->8:White?
+                  True->13:United-States?
+                    True->9:Male?
+                      True->3:Doctorate?
+                        True->{'<=50K': 3}
+                        False->11:1590.0?
+                          True->{'<=50K': 10, '>50K': 3}
+                          False->{'<=50K': 1}
+                      False->3:Doctorate?
+                        True->{'<=50K': 1, '>50K': 1}
+                        False->11:1504.0?
+                          True->{'<=50K': 18, '>50K': 1}
+                          False->{'<=50K': 1}
+                    False->{'<=50K': 4}
+                  False->{'<=50K': 6}
+                False->{'<=50K': 10}
+            False->{'>50K': 1}
+        False->3:Masters?
+          True->6:Prof-specialty?
+            True->8:Amer-Indian-Eskimo?
+              True->{'>50K': 1}
+              False->1:Local-gov?
+                True->9:Female?
+                  True->2:283661?
+                    True->7:Not-in-family?
+                      True->11:1540?
+                        True->{'<=50K': 10, '>50K': 1}
+                        False->{'<=50K': 3}
+                      False->{'<=50K': 18}
+                    False->7:Unmarried?
+                      True->{'<=50K': 3, '>50K': 1}
+                      False->{'<=50K': 2}
+                  False->2:202489?
+                    True->{'<=50K': 2, '>50K': 2}
+                    False->{'<=50K': 2}
+                False->7:Own-child?
+                  True->{'>50K': 2}
+                  False->2:230490?
+                    True->13:United-States?
+                      True->11:2258.0?
+                        True->9:Male?
+                          True->{'<=50K': 16, '>50K': 8}
+                          False->{'<=50K': 11, '>50K': 4}
+                        False->{'<=50K': 1}
+                      False->{'<=50K': 2}
+                    False->9:Female?
+                      True->{'<=50K': 5}
+                      False->{'<=50K': 6, '>50K': 1}
+            False->2:134412?
+              True->8:White?
+                True->7:Unmarried?
+                  True->1:State-gov?
+                    True->{'>50K': 2}
+                    False->9:Female?
+                      True->{'<=50K': 1, '>50K': 1}
+                      False->{'<=50K': 1}
+                  False->1:Private?
+                    True->9:Male?
+                      True->{'<=50K': 2, '>50K': 2}
+                      False->11:1980.0?
+                        True->{'<=50K': 3, '>50K': 1}
+                        False->{'<=50K': 1}
+                    False->{'<=50K': 9}
+                False->{'>50K': 4}
+              False->9:Male?
+                True->1:Self-emp-not-inc?
+                  True->7:Own-child?
+                    True->{'<=50K': 1}
+                    False->{'<=50K': 3, '>50K': 1}
+                  False->8:Asian-Pac-Islander?
+                    True->{'<=50K': 1}
+                    False->7:Unmarried?
+                      True->{'>50K': 5}
+                      False->11:2333?
+                        True->{'<=50K': 5, '>50K': 18}
+                        False->{'>50K': 3}
+                False->11:211?
+                  True->13:United-States?
+                    True->1:Self-emp-not-inc?
+                      True->{'>50K': 1}
+                      False->7:Unmarried?
+                        True->8:Black?
+                          True->{'>50K': 1}
+                          False->{'<=50K': 3}
+                        False->8:Black?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 5, '>50K': 7}
+                    False->{'>50K': 2}
+                  False->{'<=50K': 4}
+          False->11:1446?
+            True->2:40749?
+              True->1:Self-emp-not-inc?
+                True->{'>50K': 1}
+                False->{'<=50K': 6}
+              False->1:Private?
+                True->7:Not-in-family?
+                  True->9:Female?
+                    True->6:Prof-specialty?
+                      True->{'<=50K': 2, '>50K': 7}
+                      False->{'>50K': 2}
+                    False->13:Columbia?
+                      True->{'>50K': 1}
+                      False->6:Tech-support?
+                        True->{'<=50K': 1}
+                        False->8:Asian-Pac-Islander?
+                          True->{'<=50K': 1}
+                          False->{'<=50K': 8, '>50K': 8}
+                  False->6:Sales?
+                    True->{'>50K': 1}
+                    False->{'<=50K': 5}
+                False->6:Exec-managerial?
+                  True->{'>50K': 6}
+                  False->9:Female?
+                    True->7:Own-child?
+                      True->{'<=50K': 1}
+                      False->8:Amer-Indian-Eskimo?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 7, '>50K': 7}
+                    False->7:Not-in-family?
+                      True->13:Mexico?
+                        True->{'>50K': 1}
+                        False->{'<=50K': 5, '>50K': 10}
+                      False->{'>50K': 4}
+            False->{'>50K': 10}
+  False->0:21?
+    True->{'<=50K': 2}
+    False->2:25107?
+      True->{'<=50K': 2}
+      False->6:Handlers-cleaners?
+        True->{'<=50K': 1}
+        False->4:12?
+          True->12:36?
+            True->9:Male?
+              True->3:HS-grad?
+                True->{'>50K': 1}
+                False->{'<=50K': 1}
+              False->7:Unmarried?
+                True->1:Self-emp-not-inc?
+                  True->{'>50K': 2}
+                  False->3:HS-grad?
+                    True->{'<=50K': 1}
+                    False->{'>50K': 1}
+                False->{'>50K': 7}
+            False->7:Unmarried?
+              True->3:Some-college?
+                True->{'<=50K': 1}
+                False->{'>50K': 10}
+              False->1:Self-emp-not-inc?
+                True->3:HS-grad?
+                  True->{'<=50K': 1, '>50K': 6}
+                  False->{'>50K': 1}
+                False->{'>50K': 67}
+          False->{'>50K': 191}
